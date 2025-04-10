@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Trie
 |  |
 | ------- |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

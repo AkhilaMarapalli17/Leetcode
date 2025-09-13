@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0290-word-pattern) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkhilaMarapalli17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
